@@ -7,10 +7,16 @@ accesstoken발급후 게시글 접근하는 api
 accesstoken DB에 저장하는 부분은 추가해야함
 
 .env
+
 SERVER_PORT=3000
+
 DB_HOST=
+
 DB_USER=
+
 DB_PW=
+
 DB_DATABASE=
+
 JWT_SECRET=1234
 
