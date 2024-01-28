@@ -9,6 +9,9 @@ accesstoken발급후 게시글 접근하는 api
 
     npm i --save express jsonwebtoken mysql2
 
+## 실행
+    npm run start
+
 ## .env
 
 SERVER_PORT=3000
