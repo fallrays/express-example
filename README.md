@@ -7,7 +7,7 @@ accesstoken발급후 게시글 접근하는 api
 
 ## 설치
 
-    npm i --save express jsonwebtoken mysql2
+    npm i --save express jsonwebtoken mysql2 dotenv nodemon
 
 ## 실행
     npm run start
